@@ -19,6 +19,10 @@ Projeto desenvolvido através da NLW, que é um evento exclusivo e gratuito, pro
   <img alt="License" src=".github/Cover.jpg">
 </p>
 
+<p align="center">
+  <a href="https://RafaelR4mos.github.io/nlw_habits_app" target="_blank">→ Confira o projeto!</a>
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
